@@ -7,13 +7,7 @@ The template for Create React App
 ### yarn
 
 ```
-yarn create react-app my-app cra-template-ubinquitous
-```
-
-### npm
-
-```
-npm init react-app my-app cra-template-ubinquitous
+yarn create react-app my-app --template ubinquitous
 ```
 
 ## template support
