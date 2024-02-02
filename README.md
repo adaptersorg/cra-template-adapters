@@ -1,4 +1,4 @@
-# cra-template-ubinquitous
+# cra-template-adapters
 
 The template for Create React App
 
@@ -7,7 +7,7 @@ The template for Create React App
 ### yarn
 
 ```
-yarn create react-app my-app --template ubinquitous
+yarn create react-app my-app --template adapters
 ```
 
 ## template support
@@ -27,6 +27,6 @@ yarn create react-app my-app --template ubinquitous
 
 <div align="center">
   <sub>
-    <sup>Written by <a href="https://github.com/ubinquitous">@Ubinquitous</a></sup>
+    <sup>Made by <a href="https://github.com/ubinquitous">@Ubinquitous</a></sup>
   </sub>
 </div>

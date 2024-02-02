@@ -1,6 +1,6 @@
 {
   "name": "cra-template-adapters",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "private": false,
   "main": "template.json",
   "keywords": [
